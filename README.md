@@ -55,7 +55,7 @@ Below is the schema diagram of the Music Store database:
 ## How to Run the Queries  
 1. **Clone the repository:**  
    ```sh
-   https://github.com/MohanSaiPandeti/mohansaipandeti.github.io/blob/main/SQLProj(Music).sql
+   https://github.com/MohanSaiPandeti/mohansaipandeti.github.io
 2. Load the database into PostgreSQL.
 3. Run the .sql scripts in your database client.
 
