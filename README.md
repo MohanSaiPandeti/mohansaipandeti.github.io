@@ -12,13 +12,13 @@ The database consists of multiple tables, including:
 * Artist – Stores artist details.
 * Genre – Categorizes music into different genres.
 ##  Technologies Used
-*Database: PostgreSQL
-*SQL Concepts Used:
- * JOIN operations
- * Aggregate functions (SUM(), COUNT(), AVG())
- * Subqueries and Common Table Expressions (CTEs)
- * Window functions (ROW_NUMBER(), PARTITION BY)
- * Sorting and filtering
+* Database: PostgreSQL
+* SQL Concepts Used:
+ 1 JOIN operations
+ 2 Aggregate functions (SUM(), COUNT(), AVG())
+ 3 Subqueries and Common Table Expressions (CTEs)
+ 4 Window functions (ROW_NUMBER(), PARTITION BY)
+ 5 Sorting and filtering
 ## Project Structure
 * Basic SQL queries for initial insights.
 * Intermediate-level queries covering more complex joins and conditions.
@@ -42,7 +42,7 @@ The database consists of multiple tables, including:
 * Determine the highest-spending customer in each country.
 ## How to Run the Queries
 * Clone the repository:
- *git clone (https://github.com/MohanSaiPandeti/mohansaipandeti.github.io)
+   git clone (https://github.com/MohanSaiPandeti/mohansaipandeti.github.io)
 * Load the database into PostgreSQL
 * Run the .sql scripts in your database client.
 ## Contributing
