@@ -12,7 +12,12 @@ The database consists of multiple tables, including:
 * **Track** – Stores track details like duration and genre.  
 * **Album** – Contains album information.  
 * **Artist** – Stores artist details.  
-* **Genre** – Categorizes music into different genres.  
+* **Genre** – Categorizes music into different genres.
+
+## Database Schema  
+Below is the schema diagram of the Music Store database:  
+
+![Database Schema](![MusicDatabaseSchema](https://github.com/user-attachments/assets/e0aff5c8-a3f9-4bef-874f-3601baaf97a0))  
 
 ## Technologies Used  
 * **Database:** PostgreSQL  
