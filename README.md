@@ -17,7 +17,7 @@ The database consists of multiple tables, including:
 ## Database Schema  
 Below is the schema diagram of the Music Store database:  
 
-![Database Schema]([images/schema.png](https://github.com/MohanSaiPandeti/mohansaipandeti.github.io/blob/main/MusicDatabaseSchema.png))
+![Database Schema](MusicDatabaseSchema.png)
 
 ## Technologies Used  
 * **Database:** PostgreSQL  
